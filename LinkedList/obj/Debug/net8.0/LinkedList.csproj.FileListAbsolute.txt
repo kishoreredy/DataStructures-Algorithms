@@ -1,0 +1,14 @@
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\bin\Debug\net8.0\LinkedList.exe
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\bin\Debug\net8.0\LinkedList.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

@@ -1,0 +1,14 @@
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\bin\Debug\net8.0\Search.exe
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\bin\Debug\net8.0\Search.deps.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\bin\Debug\net8.0\Search.runtimeconfig.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\bin\Debug\net8.0\Search.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\bin\Debug\net8.0\Search.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.AssemblyInfo.cs
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\refint\Search.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\Search.genruntimeconfig.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Search\obj\Debug\net8.0\ref\Search.dll

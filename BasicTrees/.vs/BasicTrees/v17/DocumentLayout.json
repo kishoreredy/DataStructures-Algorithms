@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{940C5353-625A-4BE7-893C-B14C9EEB6474}|BasicTrees.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\basictrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940C5353-625A-4BE7-893C-B14C9EEB6474}|BasicTrees.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940C5353-625A-4BE7-893C-B14C9EEB6474}|BasicTrees.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\basictrees\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940C5353-625A-4BE7-893C-B14C9EEB6474}|BasicTrees.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940C5353-625A-4BE7-893C-B14C9EEB6474}|BasicTrees.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\basictrees\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940C5353-625A-4BE7-893C-B14C9EEB6474}|BasicTrees.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:07:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeNode.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\TreeNode.cs",
+              "RelativeToolTip": "TreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:51:15.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\BasicTrees\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:33:07.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

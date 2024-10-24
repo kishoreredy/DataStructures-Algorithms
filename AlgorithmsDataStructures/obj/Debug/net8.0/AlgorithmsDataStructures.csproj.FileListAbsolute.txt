@@ -1,0 +1,14 @@
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.exe
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.deps.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.runtimeconfig.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\bin\Debug\net8.0\AlgorithmsDataStructures.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.AssemblyInfo.cs
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.csproj.CoreCompileInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\refint\AlgorithmsDataStructures.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\AlgorithmsDataStructures.genruntimeconfig.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\AlgorithmsDataStructures\obj\Debug\net8.0\ref\AlgorithmsDataStructures.dll

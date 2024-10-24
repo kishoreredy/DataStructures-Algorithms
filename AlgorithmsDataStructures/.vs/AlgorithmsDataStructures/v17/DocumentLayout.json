@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\algorithmsdatastructures\\leetcode\\1514_pathwithmaxprobability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|solutionrelative:leetcode\\1514_pathwithmaxprobability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\algorithmsdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\algorithmsdatastructures\\arraycoding\\kthlargestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|solutionrelative:arraycoding\\kthlargestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\algorithmsdatastructures\\arraycoding\\kthsmallestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|solutionrelative:arraycoding\\kthsmallestelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\algorithmsdatastructures\\arraycoding\\findnextgreaterelementforeachitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|solutionrelative:arraycoding\\findnextgreaterelementforeachitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|c:\\kishore\\study\\githubrepos\\datastructures-algorithms\\algorithmsdatastructures\\arraycoding\\reversevowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C35700-1A8B-4AF6-852E-DD1C9CB2982B}|AlgorithmsDataStructures.csproj|solutionrelative:arraycoding\\reversevowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1514_PathWithMaxProbability.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\LeetCode\\1514_PathWithMaxProbability.cs",
+              "RelativeDocumentMoniker": "LeetCode\\1514_PathWithMaxProbability.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\LeetCode\\1514_PathWithMaxProbability.cs",
+              "RelativeToolTip": "LeetCode\\1514_PathWithMaxProbability.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAYwF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:34:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KthSmallestElement.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\KthSmallestElement.cs",
+              "RelativeDocumentMoniker": "ArrayCoding\\KthSmallestElement.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\KthSmallestElement.cs",
+              "RelativeToolTip": "ArrayCoding\\KthSmallestElement.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:24:39.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KthLargestElement.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\KthLargestElement.cs",
+              "RelativeDocumentMoniker": "ArrayCoding\\KthLargestElement.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\KthLargestElement.cs",
+              "RelativeToolTip": "ArrayCoding\\KthLargestElement.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:37:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindNextGreaterElementForEachItem.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\FindNextGreaterElementForEachItem.cs",
+              "RelativeDocumentMoniker": "ArrayCoding\\FindNextGreaterElementForEachItem.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\FindNextGreaterElementForEachItem.cs",
+              "RelativeToolTip": "ArrayCoding\\FindNextGreaterElementForEachItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:31:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReverseVowels.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\ReverseVowels.cs",
+              "RelativeDocumentMoniker": "ArrayCoding\\ReverseVowels.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\ArrayCoding\\ReverseVowels.cs",
+              "RelativeToolTip": "ArrayCoding\\ReverseVowels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:30:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Kishore\\Study\\GitHubRepos\\DataStructures-Algorithms\\AlgorithmsDataStructures\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:20:59.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

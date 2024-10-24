@@ -1,0 +1,14 @@
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Kishore\Study\GitHubRepos\DataStructures-Algorithms\Arrays\obj\Debug\net8.0\ref\Arrays.dll
